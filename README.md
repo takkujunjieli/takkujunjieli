@@ -43,7 +43,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/takkujunjieli/Emojis"><b>Emoji Search</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://GitHub.com/Naereen/StrapDown.js/network/"><img alt="GitHub forks" src="https://badgen.net/github/forks/Naereen/Strapdown.js/"/></a></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
