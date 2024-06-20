@@ -1,6 +1,6 @@
 <h1><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"/> Hi there! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Takku, a developer currently living in <b>Washington, USA</b>. </p>
+<p>Welcome to my page! </br> I'm Takku, a developer/applied ML enthusiast currently living in <b>Washington, USA</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -80,4 +80,4 @@
 ---
 
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 20 June, 02:02 CEST<br /></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> </p>
