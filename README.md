@@ -37,7 +37,7 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>📬 Last Commit</b></td>
     </tr>
   </thead>
   <tbody>
@@ -45,29 +45,29 @@
       <td><a href="https://github.com/takkujunjieli/Emojis"><b>Emoji Search</b></a></td>
       <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/Emojis"/></td>
       <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/Emojis"/></td>
-      <td><img alt="GitHub forks" src="https://badgen.net/github/issues/takkujunjieli/Emojis"/></td>
-      <td><img alt="GitHub forks" src="https://badgen.net/github/last-commit/takkujunjieli/Emojis"/></td>
+      <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/Emojis"/></td>
+      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/Emojis"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/takkujunjieli/AsyncTaskScheduler"><b>AsyncTask Scheduler</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/AsyncTaskScheduler"/></td>
+      <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/AsyncTaskScheduler"/></td>
+      <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/AsyncTaskScheduler"/></td>
+      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/AsyncTaskScheduler"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/takkujunjieli/BJMR"><b>Business Job Market Rumors</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/BJMR"/></td>
+      <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/BJMR"/></td>
+      <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/BJMR"/></td>
+      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/BJMR"/></td>
     </tr>
   </tbody>
 </table>
 <h3>Tech posts that I find helpful</h3>
 <ul>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
+    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
   <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
 </ul>
