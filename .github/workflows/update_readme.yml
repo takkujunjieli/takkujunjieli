@@ -30,15 +30,15 @@ jobs:
       run: |
         sed -i 's|Last refresh:.*|Last refresh: ${{ env.CURRENT_DATE }}<br /></p>|' README.md
     
-    - name: Profile ReadMe - GitHub Activity
-      uses: 4lch4/github-activity-readme@v0.3.7
-      # with:
-      #   # Your GitHub username
-      #   GH_USERNAME: # optional, default is ${{ github.repository_owner }}
-      #   # Commit message used while committing to the repo
-      #   COMMIT_MSG: # optional, default is :zap: Update README with the recent activity
-      #   # The maximum number of lines populated in your readme file
-      #   MAX_LINES: # optional, default is 5
+    # - name: Profile ReadMe - GitHub Activity
+    #   uses: 4lch4/github-activity-readme@v0.3.7
+    #   # with:
+    #   #   # Your GitHub username
+    #   #   GH_USERNAME: # optional, default is ${{ github.repository_owner }}
+    #   #   # Commit message used while committing to the repo
+    #   #   COMMIT_MSG: # optional, default is :zap: Update README with the recent activity
+    #   #   # The maximum number of lines populated in your readme file
+    #   #   MAX_LINES: # optional, default is 5
 
     - name: Commit and Push Changes
       run: |
