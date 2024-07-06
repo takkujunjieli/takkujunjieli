@@ -42,3 +42,9 @@ jobs:
           git remote set-url origin https://$GH_TOKEN@github.com/${{ github.repository }}.git
           git push origin HEAD:main
 
+      - name: Debug Remote URL
+        run: |
+          echo "Remote URL: https://$GH_TOKEN@github.com/${{ github.repository }}.git"
+          git remote set-url origin https://$GH_TOKEN@github.com/${{ github.repository }}.git
+          git remote -v
+
