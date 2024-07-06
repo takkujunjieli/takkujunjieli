@@ -1,23 +1,14 @@
-# This is a basic workflow to help you get started with Actions
+name: Update README
 
-name: CI
-
-# Controls when the workflow will run
 on:
   schedule:
     - cron: '0 0 * * *'  # This cron expression means the action will run every day at midnight UTC
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
- update-readme:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -36,9 +27,11 @@ jobs:
           mv dynamic_content.txt README.md
 
       - name: Commit and Push Changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m 'Automated update of README.md'
-          git push
+          git push https://$GH_TOKEN@github.com/${{ github.repository }}.git HEAD:main
