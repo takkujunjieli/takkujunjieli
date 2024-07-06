@@ -46,14 +46,14 @@
       <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/Emojis"/></td>
       <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/Emojis"/></td>
       <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/Emojis"/></td>
-      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/Emojis"/></td>
+      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/BJMR"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/takkujunjieli/AsyncTaskScheduler"><b>AsyncTask Scheduler</b></a></td>
       <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/AsyncTaskScheduler"/></td>
       <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/AsyncTaskScheduler"/></td>
       <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/AsyncTaskScheduler"/></td>
-      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/AsyncTaskScheduler"/></td>
+      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/BJMR"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/takkujunjieli/BJMR"><b>Business Job Market Rumors</b></a></td>
@@ -83,5 +83,5 @@
 
 ---
 
-<p align="center">This <i>README</i> file is auto-generated <b>every day</b>!</br>Last refresh: Friday, 6 July, 00:01 PDT<br /></p>
+<p align="center">This <i>README</i> file is auto-generated <b>every day</b>!</br>Last refresh: Saturday, 6 July, 16:11 UTC<br /></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> </p>
