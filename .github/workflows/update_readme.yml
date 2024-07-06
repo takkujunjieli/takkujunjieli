@@ -40,5 +40,5 @@ jobs:
           git add README.md
           git commit -m 'Automated update of README.md'
           git remote set-url origin https://$GH_TOKEN@github.com/${{ github.repository }}.git
-          git push origin HEAD: main
+          git push origin HEAD:main
 
