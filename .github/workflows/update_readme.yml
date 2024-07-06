@@ -1,50 +1,33 @@
-name: Update README
+name: README build
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight UTC
   push:
     branches:
-      - main  # Trigger on pushes to the main branch
+      - main
+  schedule:
+     - cron: '0 0 * * *'  # Run daily at midnight UTC
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - name: Checkout current repository to Master branch
+        uses: actions/checkout@v1
+      - name: Setup NodeJs 13.x
+        uses: actions/setup-node@v1
         with:
-          node-version: '14'
-
-      - name: Run Update Script
-        run: |
-          echo "## Dynamic Section" > dynamic_content.txt
-          echo "Last updated: $(date)" >> dynamic_content.txt
-          cat dynamic_content.txt
-          mv dynamic_content.txt README.md
-
-      - name: Debug Environment Variables
-        run: |
-          echo "GITHUB_REPOSITORY: ${{ github.repository }}"
-          echo "GH_TOKEN: $GH_TOKEN"  # Ensure this line is commented out in actual use to avoid printing secrets
-
-      - name: Commit and Push Changes
+          node-version: '13.x'
+      - name: Cache dependencies and build outputs to improve workflow execution time.
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+      - name: Commit and Push new README.md to the repository
+        uses: mikeal/publish-to-github-action@master
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m 'Automated update of README.md'
-          git remote set-url origin https://$GH_TOKEN@github.com/${{ github.repository }}.git
-          git push origin HEAD:main
-
-      - name: Debug Remote URL
-        run: |
-          echo "Remote URL: https://$GH_TOKEN@github.com/${{ github.repository }}.git"
-          git remote set-url origin https://$GH_TOKEN@github.com/${{ github.repository }}.git
-          git remote -v
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
