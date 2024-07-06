@@ -78,5 +78,5 @@
 
 ---
 
-<p align="center">This <i>README</i> file is generated <b>every week</b>!</br>Last refresh: Thursday, 20 June, 02:02 PDT<br /></p>
+<p align="center">This <i>README</i> file is auto-generated <b>every day</b>!</br>Last refresh: Friday, 6 July, 00:01 PDT<br /></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> </p>
