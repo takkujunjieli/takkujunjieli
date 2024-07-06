@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
     - name: Checkout repository content
@@ -27,17 +29,11 @@ jobs:
     - name: Update README.md with last refresh time
       run: |
         sed -i 's|Last refresh:.*|Last refresh: ${{ env.CURRENT_DATE }}<br /></p>|' README.md
-
-    # - name: Commit and push changes
-    #   run: |
-    #     git config --global user.name 'github-actions'
-    #     git config --global user.email 'github-actions@github.com'
-    #     git add README.md
-    #     git commit -m "Update last commit badges"
-    #     git push
     
     - name: Profile ReadMe - GitHub Activity
       uses: 4lch4/github-activity-readme@v0.3.7
+      with:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # with:
       #   # Your GitHub username
       #   GH_USERNAME: # optional, default is ${{ github.repository_owner }}
@@ -47,8 +43,6 @@ jobs:
       #   MAX_LINES: # optional, default is 5
 
     - name: Commit and Push Changes
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
