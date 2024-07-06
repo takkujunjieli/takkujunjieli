@@ -13,11 +13,20 @@ jobs:
     - name: Checkout repository content
       uses: actions/checkout@v2
 
-    - name: Update README.md
+    - name: Get current date and time
+      id: datetime
+      run: |
+        echo "CURRENT_DATE=$(date -u '+%A, %-d %B, %H:%M %Z')" >> $GITHUB_ENV
+
+    - name: Update README.md with last commit badges
       run: |
         sed -i 's|src="https://badgen.net/github/last-commit/[^"]*"|src="https://badgen.net/github/last-commit/takkujunjieli/Emojis"|' README.md
         sed -i 's|src="https://badgen.net/github/last-commit/[^"]*"|src="https://badgen.net/github/last-commit/takkujunjieli/AsyncTaskScheduler"|' README.md
         sed -i 's|src="https://badgen.net/github/last-commit/[^"]*"|src="https://badgen.net/github/last-commit/takkujunjieli/BJMR"|' README.md
+
+    - name: Update README.md with last refresh time
+      run: |
+        sed -i 's|Last refresh:.*|Last refresh: ${{ env.CURRENT_DATE }}<br /></p>|' README.md
 
     # - name: Commit and push changes
     #   run: |
@@ -26,7 +35,16 @@ jobs:
     #     git add README.md
     #     git commit -m "Update last commit badges"
     #     git push
-
+    
+    - name: Profile ReadMe - GitHub Activity
+      uses: 4lch4/github-activity-readme@v0.3.7
+      # with:
+      #   # Your GitHub username
+      #   GH_USERNAME: # optional, default is ${{ github.repository_owner }}
+      #   # Commit message used while committing to the repo
+      #   COMMIT_MSG: # optional, default is :zap: Update README with the recent activity
+      #   # The maximum number of lines populated in your readme file
+      #   MAX_LINES: # optional, default is 5
 
     - name: Commit and Push Changes
       env:
@@ -38,14 +56,6 @@ jobs:
         git commit -m 'Automated update of README.md'
         git push https://$GH_TOKEN@github.com/${{ github.repository }}.git HEAD:main
 
-    - name: Profile ReadMe - GitHub Activity
-      uses: 4lch4/github-activity-readme@v0.3.7
-      # with:
-      #   # Your GitHub username
-      #   GH_USERNAME: # optional, default is ${{ github.repository_owner }}
-      #   # Commit message used while committing to the repo
-      #   COMMIT_MSG: # optional, default is :zap: Update README with the recent activity
-      #   # The maximum number of lines populated in your readme file
-      #   MAX_LINES: # optional, default is 5
+
           
 
