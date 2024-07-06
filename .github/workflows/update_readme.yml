@@ -32,8 +32,6 @@ jobs:
     
     - name: Profile ReadMe - GitHub Activity
       uses: 4lch4/github-activity-readme@v0.3.7
-      with:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # with:
       #   # Your GitHub username
       #   GH_USERNAME: # optional, default is ${{ github.repository_owner }}
