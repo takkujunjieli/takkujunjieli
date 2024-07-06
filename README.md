@@ -76,6 +76,11 @@
 <p> <a href="https://www.linkedin.com/in/junjietakkuli" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/takkujunjieli" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://takkujunjieli.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><a href="mailto:alvinbluy@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
 ---
 
 <p align="center">This <i>README</i> file is auto-generated <b>every day</b>!</br>Last refresh: Friday, 6 July, 00:01 PDT<br /></p>
