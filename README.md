@@ -66,10 +66,10 @@
 </table>
 <h3>Recent tech posts that I find helpful</h3>
 <ul>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://lilianweng.github.io/posts/2024-07-07-hallucination/"><b> Extrinsic Hallucinations in LLMs</b></a><br/></li>
+    <li><a href="https://lilianweng.github.io/posts/2024-07-07-hallucination/"><b> Extrinsic Hallucinations in LLMs</b></a><br/> <i>A soft intro on hallucination detection and anti-hallucination advancement</i></li>
   <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
+	<li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
 </ul>
 
 <h3>Connect with me</h3>
