@@ -17,7 +17,7 @@
   </li>
   <li><h4>Frameworks & Tech Stacks:</h4>   
 
-  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" />
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-%236DB33F.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
