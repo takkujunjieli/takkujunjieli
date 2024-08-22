@@ -14,6 +14,7 @@
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-43853D?style=for-the-badge&logo=kafka&logoColor=white" />
   </li>
   <li><h4>Frameworks & Tech Stacks:</h4>   
 
