@@ -32,7 +32,8 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </li>
   <li><h4>Database & Cloud:</h4>   
-	  
+
+   <img alt="MySql" src="https://img.shields.io/badge/mysql-C%2B%2B-00599C?&style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
