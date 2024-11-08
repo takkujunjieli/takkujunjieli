@@ -1,6 +1,6 @@
 <h1><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"/> Hi there! Nice to see you.</h1>
 
-<p>I'm Takku, a developer/Machine Learning enthusiast currently living in <b>Washington, USA</b>. My primary interests encompass Machine Learning Systems—including aspects of scalability and system optimization—, data science and full-stack development. </p>
+<p>I'm Takku, a developer/Machine Learning enthusiast currently living in <b>Washington, USA</b>. My primary interests encompass Machine Learning Systems including aspects of scalability and system optimization, data science, and full-stack development. </p>
 <h3>Things I code with</h3>
 <p>
 <ul>
