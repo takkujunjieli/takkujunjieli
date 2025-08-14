@@ -1,14 +1,14 @@
 <h1><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"/> Hi there! Nice to see you.</h1>
 
-<p>I'm Takku, a developer/Machine Learning enthusiast currently living in <b>Washington, USA</b>. My primary interests encompass Machine Learning Systems including aspects of scalability and system optimization, data science, and full-stack development. </p>
+<p>I'm Takku, a developer and Gen AI enthusiast currently living in <b>Washington, USA</b>. My primary interests encompass distribution system in software engineering and LLM in aspects of scalability and system optimization. </p>
 <h3>Things I code with</h3>
 <p>
 <ul>
   <li><h4>Languages:</h4>   
 	  
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <!--<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />-->
+  <!--<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />-->
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   </li>
