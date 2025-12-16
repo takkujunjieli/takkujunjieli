@@ -59,7 +59,7 @@
       <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/from_0_llm"/></td>
       <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/from_0_llm"/></td>
       <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/from_0_llm"/></td>
-      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/from_0_llm"/></td>
+      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/BJMR"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/takkujunjieli/AsyncTaskScheduler"><b>AsyncTask Scheduler</b></a></td>
@@ -96,5 +96,5 @@
 
 ---
 
-<p align="center">This <i>README</i> file is auto-generated <b>every day</b>!</br>Last refresh: Monday, 15 December, 01:51 UTC<br /></p>
+<p align="center">This <i>README</i> file is auto-generated <b>every day</b>!</br>Last refresh: Tuesday, 16 December, 01:48 UTC<br /></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> </p>
