@@ -96,5 +96,5 @@
 
 ---
 
-<p align="center">This <i>README</i> file is auto-generated <b>every day</b>!</br>Last refresh: Sunday, 4 January, 02:00 UTC<br /></p>
+<p align="center">This <i>README</i> file is auto-generated <b>every day</b>!</br>Last refresh: Monday, 5 January, 02:00 UTC<br /></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> </p>
