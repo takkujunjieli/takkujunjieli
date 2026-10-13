@@ -6,17 +6,27 @@
   signals into clear, disciplined decision workflows.
 </p>
 
-## What I'm working on
+## Personal projects
 
-### [Noetic Dashboard](https://github.com/takkujunjieli/noetic-dashboard)
+### [Market Intelligence & Decision System](https://github.com/takkujunjieli/noetic-dashboard)
 
-A personal research operating system for short-horizon investing and trading.
-It combines market data, options positioning, earnings and news flows, and
-community signals in a lightweight dashboard hosted on GitHub Pages.
+A research operating system for short-horizon investing and trading. It brings
+market data, options positioning, earnings and news flows, and community
+signals into one fast, low-cost workflow.
 
-The current focus is decision quality: scenario underwriting with Bull/Base/Bear
-cases, Greeks-aware return estimates, and uncertainty-aware multivariate Kelly
-allocation. Data collection and refreshes are automated with GitHub Actions.
+Its core advantage is a disciplined decision layer: scenario underwriting with
+Bull/Base/Bear cases, Greeks-aware return estimates, and uncertainty-aware
+multivariate Kelly allocation. GitHub Actions automates data refreshes, while
+the static architecture keeps the product lightweight and easy to operate.
+
+## Business projects
+
+### AI Narrative Generation Platform
+
+A private product initiative exploring end-to-end AI-assisted novel generation.
+The work focuses on reliable long-form creative workflows, including structured
+story development, iterative generation, and a polished product experience.
+Further technical and business details are intentionally kept private.
 
 ## Focus areas
 
@@ -48,7 +58,8 @@ allocation. Data collection and refreshes are automated with GitHub Actions.
 
 | Project | What it is |
 | --- | --- |
-| [Noetic Dashboard](https://github.com/takkujunjieli/noetic-dashboard) | Market research, scenario underwriting, and Kelly allocation workflow |
+| [Market Intelligence & Decision System](https://github.com/takkujunjieli/noetic-dashboard) | Personal project for market research, scenario underwriting, and portfolio decision support |
+| AI Narrative Generation Platform | Private business project for AI-assisted long-form storytelling workflows |
 | [Factor Research](https://github.com/takkujunjieli/factor-research) | Tools and experiments for quantitative factor research |
 | [From 0 LLM](https://github.com/takkujunjieli/from_0_llm) | Building and studying language models from first principles |
 | [AsyncTaskScheduler](https://github.com/takkujunjieli/AsyncTaskScheduler) | An asynchronous task scheduler written in Go |
