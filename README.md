@@ -20,6 +20,13 @@ Bull/Base/Bear cases, Greeks-aware return estimates, and uncertainty-aware
 multivariate Kelly allocation. GitHub Actions automates data refreshes, while
 the static architecture keeps the product lightweight and easy to operate.
 
+### [VeilGate — Privacy-Preserving AI Gateway](https://github.com/takkujunjieli/veilgate)
+
+An early-stage project designing a privacy-preserving gateway for AI agents working with
+sensitive local files and API responses. The design combines policy-enforced access,
+redacted reads, and isolated processing to let agents use protected resources while
+controlling what information reaches external LLMs. Currently in the design phase.
+
 ## Business projects
 
 ### AI Narrative Generation Platform
@@ -66,6 +73,7 @@ Further technical and business details are intentionally kept private.
 
 | Project | What it is |
 | --- | --- |
+| [VeilGate](https://github.com/takkujunjieli/veilgate) | Privacy-preserving resource access gateway for AI agents (design phase) |
 | [Market Intelligence & Decision System](https://github.com/takkujunjieli/noetic-dashboard) | Personal project for market research, scenario underwriting, and portfolio decision support |
 | AI Narrative Generation Platform | Private business project for AI-assisted long-form storytelling workflows |
 | [From 0 LLM](https://github.com/takkujunjieli/from_0_llm) | Building and studying language models from first principles |
