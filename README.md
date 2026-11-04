@@ -1,9 +1,9 @@
 <h1>Hi, I'm Takku 👋</h1>
 
 <p>
-  I build <b>AI-native platforms</b> and explore how to make advanced AI systems
-  more reliable, useful, and safe. Based in the Bay Area, CA, USA, I am interested in
-  the AI infrastructure and research practices that make AI more responsible and secure.
+  I build <b>AI-native platforms</b> and explore how to make AI systems
+  more reliable, privacy-preserving, and safe. I am interested in
+  open-source projects and research opportunities in this area and open to connect.
 </p>
 
 ## Personal projects
