@@ -2,9 +2,8 @@
 
 <p>
   I build <b>AI-native platforms</b> and explore how to make advanced AI systems
-  more reliable, useful, and safe. Based in Washington, USA, I am interested in
-  the product, infrastructure, and research practices that make responsible AI
-  work in the real world.
+  more reliable, useful, and safe. Based in the Bay Area, CA, USA, I am interested in
+  the AI infrastructure and research practices that make AI more responsible and secure.
 </p>
 
 ## Personal projects
