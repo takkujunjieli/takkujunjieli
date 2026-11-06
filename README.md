@@ -68,16 +68,6 @@ Further technical and business details are intentionally kept private.
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-## Selected projects
-
-| Project | What it is |
-| --- | --- |
-| [VeilGate](https://github.com/takkujunjieli/veilgate) | Privacy-preserving resource access gateway for AI agents (design phase) |
-| [Market Intelligence & Decision System](https://github.com/takkujunjieli/noetic-dashboard) | Personal project for market research, scenario underwriting, and portfolio decision support |
-| AI Narrative Generation Platform | Private business project for AI-assisted long-form storytelling workflows |
-| [From 0 LLM](https://github.com/takkujunjieli/from_0_llm) | Building and studying language models from first principles |
-| [AsyncTaskScheduler](https://github.com/takkujunjieli/AsyncTaskScheduler) | An asynchronous task scheduler written in Go |
-
 ## Connect
 
 <p>
