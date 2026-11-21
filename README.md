@@ -28,7 +28,7 @@ controlling what information reaches external LLMs. Currently in the design phas
 
 ## Business projects
 
-### AI Narrative Generation Platform
+### [AI Narrative Generation Platform (Home Page)](https://noetic-contemplation-lab.vercel.app)
 
 A private product initiative exploring end-to-end AI-assisted novel generation.
 The work focuses on reliable long-form creative workflows, including structured
