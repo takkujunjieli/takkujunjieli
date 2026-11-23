@@ -8,7 +8,7 @@
 
 ## Personal projects
 
-### [Market Intelligence & Decision System](https://github.com/takkujunjieli/noetic-dashboard)
+### [Market Intelligence & Decision System](https://github.com/takkujunjieli/stock-dashboard-private)
 
 A research operating system for short-horizon investing and trading. It brings
 market data, options positioning, earnings and news flows, and community
